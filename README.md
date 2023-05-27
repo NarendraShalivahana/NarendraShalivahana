@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NarendraShalivahana
-- 👀 I’m interested in ...python programming
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...Software Development
+- 🌱 I’m currently learning ...Django
 - 💞️ I’m looking to collaborate on ...project completion
 - 📫 How to reach me ...through email-narendrakummara9@gmail.com
 
