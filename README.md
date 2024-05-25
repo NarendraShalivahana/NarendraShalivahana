@@ -12,7 +12,7 @@ Took responsibility as server owner for more than 6000+ physical and virtual ser
 
 🌱 Learning & Development:
 
-Regularly practicing coding challenges on LeetCode, HackerRank, and Geeks For Geeks.
+Regularly practicing coding challenges on LeetCode, Codechef, and Geeks For Geeks.
 Deep diving into system design principles and cloud computing.
 Keeping up-to-date with the latest tech trends and best practices.
 
