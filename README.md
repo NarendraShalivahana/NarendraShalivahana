@@ -8,7 +8,7 @@ Enhancing my skills in full-stack development with hands-on projects and contrib
 💼 Professional Experience:
 
 Software Developer at HCL Technologies: Worked on Design and implementation of HCL healthcare management system 
-with using technologies Springboot, Microservices, Rest API's, Java, System Design.
+using technologies Springboot, Microservices, Rest API's, Java, System Design.
 
 🌱 Learning & Development:
 
