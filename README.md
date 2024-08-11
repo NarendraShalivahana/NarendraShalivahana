@@ -7,8 +7,8 @@ Enhancing my skills in full-stack development with hands-on projects and contrib
 
 💼 Professional Experience:
 
-Graduate Engineer Trainee at HCL Technologies: Worked on VMware and Windows Server.
-Took responsibility as server owner for more than 6000+ physical and virtual servers.
+Software Developer at HCL Technologies: Worked on Design and implementation of HCL healthcare management system 
+with using technologies Springboot, Microservices, Rest API's, Java, System Design.
 
 🌱 Learning & Development:
 
