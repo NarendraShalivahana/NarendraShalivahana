@@ -7,8 +7,8 @@ Enhancing my skills in full-stack development with hands-on projects and contrib
 
 💼 Professional Experience:
 
-Software Developer at HCL Technologies: Worked on Design and implementation of HCL healthcare management system 
-using technologies Springboot, Microservices, Rest API's, Java, System Design.
+Software Developer at HCL Technologies: Worked on Design and implementation of application
+using technologies Springboot, React.js, Typescript, MongoDB, Kafka, Microservices, System Design, Java.
 
 🌱 Learning & Development:
 
@@ -18,9 +18,9 @@ Keeping up-to-date with the latest tech trends and best practices.
 
 👨‍💻 Tech Stack:
 
-Languages: JavaScript, Python, Java, C++
-Frameworks & Libraries: React, Django
-Tools & Platforms: Azure, Vcentre, Excel
+Languages: Java, Python, Javascript
+Frameworks & Libraries: React, Springboot
+Tools & Platforms: Azure, AWS
 Concepts: System Design, ITIL, OOPs, OS, CN, DBMS
 
 🔗 Let's Connect:
