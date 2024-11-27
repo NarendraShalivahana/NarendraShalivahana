@@ -24,7 +24,7 @@ Tools & Platforms: Azure, AWS
 Concepts: System Design, ITIL, OOPs, OS, CN, DBMS
 
 🔗 Let's Connect:
-Linkedin- https://www.linkedin.com/in/narendra-kummari-164935283/
+https://www.linkedin.com/in/narendra-kummari-890762221/
 Leetcode- https://leetcode.com/narendrakummara_9/
 Codechef- https://www.codechef.com/users/naren_6303
 Personal Website- #
